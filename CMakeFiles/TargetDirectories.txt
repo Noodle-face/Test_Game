@@ -1,0 +1,3 @@
+C:/Craft/CMakeFiles/craft.dir
+C:/Craft/deps/glfw/src/CMakeFiles/glfw.dir
+C:/Craft/deps/glfw/CMakeFiles/uninstall.dir

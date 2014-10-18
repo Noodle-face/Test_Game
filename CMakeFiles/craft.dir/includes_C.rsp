@@ -1,0 +1,1 @@
+-IC:/Craft/deps/glew/include -IC:/Craft/deps/glfw/include -IC:/Craft/deps/lodepng -IC:/Craft/deps/noise -IC:/Craft/deps/sqlite -IC:/Craft/deps/tinycthread -I"C:/Program Files/cURL/include" 
