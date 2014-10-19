@@ -16,6 +16,6 @@ Compile and Run
 Once you have the dependencies (see above), run the following commands in your terminal.<br>
 
 git clone https://github.com/Noodle-face/Test_Game.git <br>
-cd Craft <br>
+cd Test_Game <br>
 cmake -G "MinGW Makefiles" <br>
 mingw32-make
